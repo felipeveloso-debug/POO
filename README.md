@@ -58,11 +58,11 @@ Foram realizados testes de cadastro, listagem, busca por identificador e remoç�
 
 ### Estrutura do projeto
 
-![Estrutura do projeto no BlueJ](prints/estrutura.png)
+![Estrutura do projeto no BlueJ](estrutura.png)
 
 ### Execução da aplicação
 
-![Personagens listados no banco de dados](prints/execucao.png)
+![Personagens listados no banco de dados](execucao.png)
 
 
 
